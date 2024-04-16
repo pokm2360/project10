@@ -7,10 +7,10 @@ public class Ex1 {
 		
 		Calculator calculator = new Calculator();
 		
-		System.out.println(calculator.add(10, 10));
-		System.out.println(calculator.substract(10, 10));
-		System.out.println(calculator.times(10, 10));
-		System.out.println(calculator.divide(10, 10));
+		System.out.println(calculator.add(10, 5));
+		System.out.println(calculator.substract(10, 5));
+		System.out.println(calculator.times(10, 5));
+		System.out.println(calculator.divide(10, 5));
 	}
 
 }
